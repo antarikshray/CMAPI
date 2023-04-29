@@ -1,0 +1,336 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "ruling_party": "YSR Congres Party",
+    "chief_minister": {
+      "name": "Shri YS Jagan Mohan Reddy",
+      "age": 49,
+      "party": ["YSR Congres Party"],
+      "tenure_start_date": "5/30/2019",
+      "birth_place": "Jammalamadugu, YSR District, Andhra Pradesh"
+    }
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Pema Khandu",
+      "age": 43,
+      "party": ["Bhartiya Janata Party"],
+      "tenure_start_date": "5/29/2019",
+      "birth_place": "Tawang, Arunachal Pradesh"
+    }
+  },
+  {
+    "state": "Assam",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Himanta Biswa Sarma",
+      "age": 53,
+      "party": ["Bhartiya Janata Party"],
+      "tenure_start_date": "10/5/2021",
+      "birth_place": "Jorhat, Assam"
+    }
+  },
+  {
+    "state": "Bihar",
+    "ruling_party": "Mahagathbandhan",
+    "chief_minister": {
+      "name": "Shri Nitish Kumar",
+      "age": 71,
+      "party": ["Mahagathbandhan", "Janata Dal (United)"],
+      "tenure_start_date": "8/9/2022",
+      "birth_place": "Bakhtiarpur, Bihar"
+    }
+  },
+  {
+    "state": "Chhattisgarh",
+    "ruling_party": "Indian National Congress",
+    "chief_minister": {
+      "name": "Shri Bhupesh Baghel",
+      "age": 61,
+      "party": ["Indian National Congress"],
+      "tenure_start_date": "12/17/2018",
+      "birth_place": "Durg District, Chattisgarh"
+    }
+  },
+  {
+    "state": "Delhi (NCT)",
+    "ruling_party": "Aam Aadmi Party",
+    "chief_minister": {
+      "name": "Shri Arvind Kejriwal",
+      "age": 54,
+      "party": ["Aam Aadmi Party"],
+      "tenure_start_date": "2/16/2020",
+      "birth_place": "Siwani, Bhiwani district, Haryana"
+    }
+  },
+  {
+    "state": "Goa",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Pramod Sawant",
+      "age": 49,
+      "party": ["Bhartiya Janata Party", "National Democratic Alliance"],
+      "tenure_start_date": "3/19/2019",
+      "birth_place": "Goa"
+    }
+  },
+  {
+    "state": "Gujarat",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Bhupendra Patel",
+      "age": 60,
+      "party": ["Bhartiya Janata Party"],
+      "tenure_start_date": "9/13/2021",
+      "birth_place": "Ahmedabad, Gujarat"
+    }
+  },
+  {
+    "state": "Haryana",
+    "ruling_party": "Bhartiya Janata Party + Jannayak Janta Party",
+    "chief_minister": {
+      "name": "Shri Manohar Lal",
+      "age": 68,
+      "party": ["Bhartiya Janata Party", "National Democratic Alliance"],
+      "tenure_start_date": "10/27/2019",
+      "birth_place": "Nindana village, Meham tehsil, Rohtak district, Haryana"
+    }
+  },
+  {
+    "state": "Himachal Pradesh",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Jairam Thakur",
+      "age": 57,
+      "party": ["Bhartiya Janata Party"],
+      "tenure_start_date": "12/27/2017",
+      "birth_place": "Tandi village, Mandi"
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "ruling_party": "United Progressive Alliance",
+    "chief_minister": {
+      "name": "Shri Hemant Soren",
+      "age": 47,
+      "party": ["Jharkhand Mukti Morcha", "United Progressive Alliance"],
+      "tenure_start_date": "12/29/2019",
+      "birth_place": "Nemara, Ramgarh district, Bihar"
+    }
+  },
+  {
+    "state": "Karnataka",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Sri Basavaraj Bommai",
+      "age": 62,
+      "party": ["Bhartiya Janata Party", "Janata Dal (United)", "Janata Dal"],
+      "tenure_start_date": "7/28/2021",
+      "birth_place": "Hubli, Karnataka"
+    }
+  },
+  {
+    "state": "Kerala",
+    "party": "Communist Party Of India (Marxist)",
+    "chief_minister": {
+      "name": "Shri Pinarayi Vijayan",
+      "age": 77,
+      "party": ["Communist Party Of India (Marxist)"],
+      "tenure_start_date": "5/25/2016",
+      "birth_place": "Kannur, Kerala"
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Shivraj Singh Chouhan",
+      "age": 63,
+      "party": ["Bhartiya Janata Party"],
+      "tenure_start_date": "3/23/2020",
+      "birth_place": "Sehore, Madhya Pradesh"
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "ruling_party": "Balasahebanchi Shiv Sena",
+    "chief_minister": {
+      "name": "Shri Eknath Shinde",
+      "age": 58,
+      "party": ["Balasahebanchi Shiv Sena", "Shiv Sena"],
+      "tenure_start_date": "6/30/2022",
+      "birth_place": "Dare, Maharashtra"
+    }
+  },
+  {
+    "state": "Manipur",
+    "ruling_party": "National Democratic Alliance",
+    "chief_minister": {
+      "name": "Shri N. Biren Singh",
+      "age": 61,
+      "party": ["Bhartiya Janata Party", "National Democratic Alliance"],
+      "tenure_start_date": "3/15/2017",
+      "birth_place": "Imphal, Manipur"
+    }
+  },
+  {
+    "state": "Meghalaya",
+    "ruling_party": "National Democratic Alliance",
+    "chief_minister": {
+      "name": "Shri Conrad Kongkal Sangma",
+      "age": 44,
+      "party": ["National People's Party", "National Democratic Alliance"],
+      "tenure_start_date": "3/6/2018",
+      "birth_place": "Tura, Meghalaya"
+    }
+  },
+  {
+    "state": "Mizoram",
+    "ruling_party": "Mizo National Front",
+    "chief_minister": {
+      "name": "Shri Pu Zoramthanga",
+      "age": 78,
+      "party": ["Mizo National Front", "National Democratic Alliance"],
+      "tenure_start_date": "12/15/2018",
+      "birth_place": "Samthang, Mizoram"
+    }
+  },
+  {
+    "state": "Nagaland",
+    "ruling_party": "Nationalist Democratic Progressive Party",
+    "chief_minister": {
+      "name": "Shri Neiphiu Rio",
+      "age": 71,
+      "party": [
+        "Nationalist Democratic Progressive Party",
+        "National Democratic Alliance",
+        "Democratic Alliance of Nagaland"
+      ],
+      "tenure_start_date": "3/8/2018",
+      "birth_place": "Tuophema, Naga Hills District, Assam"
+    }
+  },
+  {
+    "state": "Odisha",
+    "ruling_party": "Biju Janata Dal",
+    "chief_minister": {
+      "name": "Shri Naveen Patnaik",
+      "age": 76,
+      "party": ["Biju Janata Dal"],
+      "tenure_start_date": "3/5/2000",
+      "birth_place": "Cuttack, Orissa"
+    }
+  },
+  {
+    "state": "Puducherry (UT)",
+    "ruling_party": "All India NR Congress",
+    "chief_minister": {
+      "name": "Shri N. Rangaswamy",
+      "age": 72,
+      "party": ["All India NR Congress"],
+      "tenure_start_date": "5/7/2021",
+      "birth_place": "Pondicherry"
+    }
+  },
+  {
+    "state": "Punjab",
+    "ruling_party": "Aam Aadmi Party",
+    "chief_minister": {
+      "name": "Shri Bhagwant Singh Mann",
+      "age": 49,
+      "party": ["Aam Aadmi Party"],
+      "tenure_start_date": "3/16/2022",
+      "birth_place": "Satoj, Punjab"
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "ruling_party": "Indian National Congress",
+    "chief_minister": {
+      "name": "Shri Ashok Gehlot",
+      "age": 71,
+      "party": ["Indian National Congress"],
+      "tenure_start_date": "12/17/2018",
+      "birth_place": "Jodhpur, Rajasthan"
+    }
+  },
+  {
+    "state": "Sikkim",
+    "ruling_party": "Sikkim Krantikari Morcha",
+    "chief_minister": {
+      "name": "Shri PS Golay",
+      "age": 54,
+      "party": ["Sikkim Krantikari Morcha", "National Democratic Alliance"],
+      "tenure_start_date": "5/27/2019",
+      "birth_place": "India"
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "ruling_party": "Dravida Munnetra Kazhagam",
+    "chief_minister": {
+      "name": "Shri M. K. Stalin",
+      "age": 69,
+      "party": ["Dravida Munnetra Kazhagam"],
+      "tenure_start_date": "5/7/2021",
+      "birth_place": "Chennai, Tamil Nadu"
+    }
+  },
+  {
+    "state": "Telangana",
+    "ruling_party": "Bharat Rashtra Samithi",
+    "chief_minister": {
+      "name": "Shri K Chandrasekhar Rao",
+      "age": 68,
+      "party": ["Bharat Rashtra Samithi"],
+      "tenure_start_date": "6/2/2014",
+      "birth_place": "Chintamadaka, Telangana"
+    }
+  },
+  {
+    "state": "Tripura",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Dr. Manik Saha",
+      "age": 69,
+      "party": ["Bhartiya Janata Party"],
+      "tenure_start_date": "5/15/2022",
+      "birth_place": "Agartala, Tripura"
+    }
+  },
+  {
+    "state": "Uttar Pradesh",
+    "ruling_party": "Bhartiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Yogi Aditya Nath",
+      "age": 50,
+      "party": ["Bharatiya Janata Party"],
+      "tenure_start_date": "3/19/2017",
+      "birth_place": "Panchur, Pauri Garhwal district, Uttar Pradesh"
+    }
+  },
+  {
+    "state": "Uttarakhand",
+    "ruling_party": "Bharatiya Janata Party",
+    "chief_minister": {
+      "name": "Shri Pushkar Singh Dhami",
+      "age": 47,
+      "party": ["Bharatiya Janata Party"],
+      "tenure_start_date": "7/4/2021",
+      "birth_place": "Pithoragarh, Uttarakhand"
+    }
+  },
+  {
+    "state": "West Bengal",
+    "ruling_party": "All India Trinamool Congress",
+    "chief_minister": {
+      "name": "Km. Mamata Banerjee",
+      "age": 67,
+      "party": ["All India Trinamool Congress"],
+      "tenure_start_date": "5/20/2011",
+      "birth_place": "Calcutta, West Bengal"
+    }
+  }
+]
