@@ -7,16 +7,12 @@ const uri = `mongodb+srv://${process.env.MONGOUSER}:${process.env.MONGOPASSWORD}
 
 const client = new MongoClient(uri);
 
-// const run = async () =>{
-//     try {
-//         const database = client.db('CMAPI');
-//         const movies = database.collection('state');
-//         const query = { state: 'Assam' };
-//         const movie = await movies.findOne(query);
-//         console.log(movie);
-//     } finally {
-//         await client.close();
-//     }
-// }
+const setUpConnection = async () => {
+    await client.connect();
+    const database = client.db('CMAPI');
+    const statesCollection = database.collection('state');
+    return statesCollection;
+}
 
 export default client;
+export { setUpConnection }

@@ -12,17 +12,21 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.setUpConnection = void 0;
-const mongodb_1 = require("mongodb");
-const dotenv_1 = __importDefault(require("dotenv"));
-dotenv_1.default.config();
-const uri = `mongodb+srv://${process.env.MONGOUSER}:${process.env.MONGOPASSWORD}@${process.env.MONGOCLUSTER}.ymoji.mongodb.net/?retryWrites=true&w=majority`;
-const client = new mongodb_1.MongoClient(uri);
-const setUpConnection = () => __awaiter(void 0, void 0, void 0, function* () {
-    yield client.connect();
-    const database = client.db('CMAPI');
-    const statesCollection = database.collection('state');
-    return statesCollection;
+exports.allStates = void 0;
+const mongoClient_1 = __importDefault(require("../client/mongoClient"));
+const allStates = () => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+        yield mongoClient_1.default.connect();
+        const database = mongoClient_1.default.db('CMAPI');
+        const statesCollection = database.collection('state');
+        const states = yield statesCollection.find({}).toArray();
+        return states;
+    }
+    catch (err) {
+        return err;
+    }
+    finally {
+        yield mongoClient_1.default.close();
+    }
 });
-exports.setUpConnection = setUpConnection;
-exports.default = client;
+exports.allStates = allStates;
