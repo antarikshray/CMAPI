@@ -1,7 +1,7 @@
 # CMAPI
 
 ## Description
-This is an open source api to fetch details of different states of India and their CHief Ministers. It gives information about the political affiliations and history of CMs. It will help people to understand more about state politics, know more about their CMs', their backgrounds, criminal activities, development activities and much more.
+This is an open source api to fetch details of different states of India and their Chief Ministers. It gives information about the political affiliations and history of CMs. It will help people to understand more about state politics, know more about their CMs', their backgrounds, criminal activities, development activities and much more.
 
 ## Setup
 
